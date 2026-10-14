@@ -1,0 +1,20 @@
+name: gbr-connectivity
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - opendrift=1.14.10
+  - geopandas
+  - netcdf4
+  - numpy
+  - pandas
+  - pyarrow
+  - pyproj
+  - pyyaml
+  - scikit-learn
+  - scipy
+  - shapely
+  - xarray
+  - pip
+  - pip:
+      - infomap==2.15.1

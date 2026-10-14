@@ -1,0 +1,5 @@
+product,subset,contacts,destination_reefs,contact_share,mortality_weight_share
+POT,Within release domain,472441,285,0.91712965659154,0.9227302546237935
+POT,Outside release domain,42689,172,0.08287034340846,0.07726974537620668
+FIRST,Within release domain,246551,282,0.9515265658347195,0.9551982274575765
+FIRST,Outside release domain,12560,158,0.048473434165280514,0.04480177254242361
